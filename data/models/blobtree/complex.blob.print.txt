@@ -1,0 +1,11 @@
+
+																											OP#0:UNION	
+																								PR#0:POINT	OP#1:UNION	
+																					PR#1:CYLIN	OP#2:UNION	
+																		PR#2:CYLIN	OP#3:UNION	
+															PR#3:POINT	OP#4:UNION	
+												PR#4:POINT	OP#5:UNION	
+									OP#6:BLEND	OP#8:BLEND	
+						OP#7:BLEND	PR#7:POINT	PR#8:POINT	OP#9:BLEND	
+			PR#5:POINT	PR#6:POINT	OP#10:BLEND	PR#11:POINT	
+PR#9:POINT	PR#10:POINT	

@@ -1,0 +1,6 @@
+For My Thesis Writeup:
+
+1. Performance measurement of field evaluation process with/without stack 
+2. [LOW] Performance measurement of field evaluation process with/without vectorization
+3. Large model build for performance comparison
+4. Tetrahedra algorithm for next chapter 
