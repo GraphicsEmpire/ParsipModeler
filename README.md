@@ -1,4 +1,4 @@
-hifem
+ParsipModeler
 ==============
 A sketch-based modeling system that creates live objects which can deform naturally. The system supports a built-in scripting language to create complex scenegraphs for rendering and animation. Many of the functionalities are accelerated by the GPU and an easy to use front-end supports GPU rendering and compute shaders (via OpenGL and OpenCL standards).
 
