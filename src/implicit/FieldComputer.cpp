@@ -38,7 +38,7 @@ namespace PS {
             }
 
         	AnsiStr strCodePath = ExtractOneLevelUp(ExtractFilePath(GetExePath()));
-            AnsiStr strPolyFP = strCodePath + AnsiStr("data/shaders/Polygonizer.cl");
+            AnsiStr strPolyFP = strCodePath + AnsiStr("data/opencl/Polygonizer.cl");
 
     		//Create a GPU Compute Device
     		m_lpGPU = TheCLManager::Instance().device();
